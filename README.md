@@ -29,5 +29,3 @@ The model achieves around 95–98% accuracy on the test data.
 ## Files
 - `Iris_Flower_Classifier.ipynb` – Main notebook containing code and results.
 
-## License
-This project is open source and free to use for learning or experimentation.
